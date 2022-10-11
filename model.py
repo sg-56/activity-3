@@ -28,4 +28,4 @@ print("Hello Worlds")
 print(labels[predict[0]])
 
 
-pip install pipreqs
+
